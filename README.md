@@ -9,7 +9,7 @@ Tools:
   2. npm i recharts
   3. npm react-pro-sidebar
 
-## Dark mode theme
+## Dark mode theme:
 <video src='https://user-images.githubusercontent.com/109661571/180726403-bb3abbe4-6294-4841-bcb1-55eb733aadd1.webm'></video>
 ![React-App](https://user-images.githubusercontent.com/109661571/180726226-d7002b06-eabf-4224-bcd4-732c2097abc9.png)
 ![total_balance_and_chart](https://user-images.githubusercontent.com/109661571/180726300-836be399-7d80-4c91-8db8-8f3075535a22.png)

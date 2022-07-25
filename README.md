@@ -10,6 +10,7 @@ Tools:
   3. npm react-pro-sidebar
 
 ## Light mode theme
+<video src='https://user-images.githubusercontent.com/109661571/179961667-106519fa-8cc5-4096-bb12-c2925e94d915.webm'></video>
 [React-App.webm](https://user-images.githubusercontent.com/109661571/179961667-106519fa-8cc5-4096-bb12-c2925e94d915.webm)
 ![React-App](https://user-images.githubusercontent.com/109661571/179961591-2bfca360-9bca-429f-b6d7-564d4c755fc6.png)
 ![total_balance_and_chart](https://user-images.githubusercontent.com/109661571/179963350-cd4c108f-14c0-42f3-97ac-7dcfa648956a.png)
